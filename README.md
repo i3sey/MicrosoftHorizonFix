@@ -19,6 +19,6 @@ Once exlorer.exe is killed, you are not able to switch between different windows
 After the batch file starts, your game will start and after some time explorer.exe process will be killed, it starts again as soon as you exit the game.  
 
 # Downloads
-- [Forza Horizon 4]()
-- [Forza Horizon 5]()
-- [Atomic Heart]()
+- [Forza Horizon 4](https://github.com/i3sey/MicrosoftSharedGamesFix/tree/master/Forza%20Horizon%204)
+- [Forza Horizon 5](https://github.com/i3sey/MicrosoftSharedGamesFix/tree/master/Forza%20Horizon%205)
+- [Atomic Heart](https://github.com/i3sey/MicrosoftSharedGamesFix/tree/master/Atomic%20Heart)
