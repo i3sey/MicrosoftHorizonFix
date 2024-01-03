@@ -23,3 +23,4 @@ After the batch file starts, your game will start and after some time explorer.e
 - [Forza Horizon 5](https://github.com/i3sey/MicrosoftSharedGamesFix/tree/master/Forza%20Horizon%205)
 - [Atomic Heart](https://github.com/i3sey/MicrosoftSharedGamesFix/tree/master/Atomic%20Heart)
 - [Sea Of Thieves](https://github.com/i3sey/MicrosoftSharedGamesFix/tree/master/Sea%20Of%20Thieves)
+- [Valheim](https://github.com/i3sey/MicrosoftSharedGamesFix/tree/master/Valheim)
